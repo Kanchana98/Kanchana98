@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Final Project $ Group Projects<br>
 🌱 I’m currently learning web Development, Flutter & Angular<br>
-💬 Ask me about: dont ask😄Pronouns: Kanchana<br>
+💬 Ask me about: dont ask😄<br>
 ⚡ Final Year Undergraduate 👯 
 
 <h3> 🛠 &nbsp;Web Developer</h3>
