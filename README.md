@@ -6,4 +6,25 @@
 💬 Ask me about: dont ask😄Pronouns: Kanchana
 ⚡ Final Year Undergraduate 👯 
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- :space_invader:
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<br>
+<a href="linkedin.com/in/kanchana-dilrukshi-b2b9a1184"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p><br>
+<p>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+</p>
